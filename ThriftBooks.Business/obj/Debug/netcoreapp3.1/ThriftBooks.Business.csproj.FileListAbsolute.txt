@@ -1,0 +1,12 @@
+C:\API\ThriftBooks\ThriftBooks.Business\bin\Debug\netcoreapp3.1\ThriftBooks.Business.deps.json
+C:\API\ThriftBooks\ThriftBooks.Business\bin\Debug\netcoreapp3.1\ThriftBooks.Business.dll
+C:\API\ThriftBooks\ThriftBooks.Business\bin\Debug\netcoreapp3.1\ThriftBooks.Data.dll
+C:\API\ThriftBooks\ThriftBooks.Business\bin\Debug\netcoreapp3.1\ThriftBooks.Data.pdb
+C:\API\ThriftBooks\ThriftBooks.Business\obj\Debug\netcoreapp3.1\ThriftBooks.Business.csprojAssemblyReference.cache
+C:\API\ThriftBooks\ThriftBooks.Business\obj\Debug\netcoreapp3.1\ThriftBooks.Business.AssemblyInfoInputs.cache
+C:\API\ThriftBooks\ThriftBooks.Business\obj\Debug\netcoreapp3.1\ThriftBooks.Business.AssemblyInfo.cs
+C:\API\ThriftBooks\ThriftBooks.Business\obj\Debug\netcoreapp3.1\ThriftBooks.Business.csproj.CopyComplete
+C:\API\ThriftBooks\ThriftBooks.Business\bin\Debug\netcoreapp3.1\ThriftBooks.Business.pdb
+C:\API\ThriftBooks\ThriftBooks.Business\obj\Debug\netcoreapp3.1\ThriftBooks.Business.csproj.CoreCompileInputs.cache
+C:\API\ThriftBooks\ThriftBooks.Business\obj\Debug\netcoreapp3.1\ThriftBooks.Business.dll
+C:\API\ThriftBooks\ThriftBooks.Business\obj\Debug\netcoreapp3.1\ThriftBooks.Business.pdb
