@@ -7,6 +7,9 @@ C:\API\ThriftBooks\ThriftBooks.Business\obj\Debug\netcoreapp3.1\ThriftBooks.Busi
 C:\API\ThriftBooks\ThriftBooks.Business\obj\Debug\netcoreapp3.1\ThriftBooks.Business.AssemblyInfo.cs
 C:\API\ThriftBooks\ThriftBooks.Business\obj\Debug\netcoreapp3.1\ThriftBooks.Business.csproj.CopyComplete
 C:\API\ThriftBooks\ThriftBooks.Business\bin\Debug\netcoreapp3.1\ThriftBooks.Business.pdb
-C:\API\ThriftBooks\ThriftBooks.Business\obj\Debug\netcoreapp3.1\ThriftBooks.Business.csproj.CoreCompileInputs.cache
 C:\API\ThriftBooks\ThriftBooks.Business\obj\Debug\netcoreapp3.1\ThriftBooks.Business.dll
 C:\API\ThriftBooks\ThriftBooks.Business\obj\Debug\netcoreapp3.1\ThriftBooks.Business.pdb
+C:\API\ThriftBooks\ThriftBooks.Business\bin\Debug\netcoreapp3.1\ThriftBooks.Business.runtimeconfig.json
+C:\API\ThriftBooks\ThriftBooks.Business\bin\Debug\netcoreapp3.1\ThriftBooks.Business.runtimeconfig.dev.json
+C:\API\ThriftBooks\ThriftBooks.Business\obj\Debug\netcoreapp3.1\ThriftBooks.Business.genruntimeconfig.cache
+C:\API\ThriftBooks\ThriftBooks.Business\obj\Debug\netcoreapp3.1\ThriftBooks.Business.csproj.CoreCompileInputs.cache

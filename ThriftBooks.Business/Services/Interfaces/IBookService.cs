@@ -8,10 +8,10 @@ namespace ThriftBooks.Business.Services.Interfaces
 {
     public interface IBookService
     {
-        Task DeleteAsync(Guid id);
         List<BookModel> GetAll(Expression<Func<BookModel, bool>> filter = null);
         BookModel GetById(Guid id);
         Task InsertAsync(CreateBookModel model);
+        Task DeleteAsync(Guid id);
         Task UpdateAsync(BookModel model);
     }
 }

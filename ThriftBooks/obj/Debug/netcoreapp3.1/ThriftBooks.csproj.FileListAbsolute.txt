@@ -68,6 +68,8 @@ C:\API\ThriftBooks\ThriftBooks\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 C:\API\ThriftBooks\ThriftBooks\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\API\ThriftBooks\ThriftBooks\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\API\ThriftBooks\ThriftBooks\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\API\ThriftBooks\ThriftBooks\bin\Debug\netcoreapp3.1\DataAnnotationsExtensions.dll
+C:\API\ThriftBooks\ThriftBooks\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\API\ThriftBooks\ThriftBooks\obj\Debug\netcoreapp3.1\ThriftBooks.csproj.CoreCompileInputs.cache
 C:\API\ThriftBooks\ThriftBooks\obj\Debug\netcoreapp3.1\ThriftBooks.MvcApplicationPartsAssemblyInfo.cs
 C:\API\ThriftBooks\ThriftBooks\obj\Debug\netcoreapp3.1\ThriftBooks.MvcApplicationPartsAssemblyInfo.cache

@@ -5,7 +5,8 @@ C:\API\ThriftBooks\ThriftBooks.Data\obj\Debug\netcoreapp3.1\ThriftBooks.Data.Ass
 C:\API\ThriftBooks\ThriftBooks.Data\bin\Debug\netcoreapp3.1\ThriftBooks.Data.runtimeconfig.json
 C:\API\ThriftBooks\ThriftBooks.Data\bin\Debug\netcoreapp3.1\ThriftBooks.Data.runtimeconfig.dev.json
 C:\API\ThriftBooks\ThriftBooks.Data\bin\Debug\netcoreapp3.1\ThriftBooks.Data.pdb
-C:\API\ThriftBooks\ThriftBooks.Data\obj\Debug\netcoreapp3.1\ThriftBooks.Data.csproj.CoreCompileInputs.cache
 C:\API\ThriftBooks\ThriftBooks.Data\obj\Debug\netcoreapp3.1\ThriftBooks.Data.dll
 C:\API\ThriftBooks\ThriftBooks.Data\obj\Debug\netcoreapp3.1\ThriftBooks.Data.pdb
 C:\API\ThriftBooks\ThriftBooks.Data\obj\Debug\netcoreapp3.1\ThriftBooks.Data.genruntimeconfig.cache
+C:\API\ThriftBooks\ThriftBooks.Data\obj\Debug\netcoreapp3.1\ThriftBooks.Data.csproj.CoreCompileInputs.cache
+C:\API\ThriftBooks\ThriftBooks.Data\obj\Debug\netcoreapp3.1\ThriftBooks.Data.csprojAssemblyReference.cache
